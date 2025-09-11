@@ -1,0 +1,26 @@
+body {
+	color: var(--color-slate-900);
+	background-color: var(--color-slate-100);
+	overflow-x: hidden;
+	font-family: var(--font-sans);
+  font-style: normal;
+	font-size: 20px;
+}
+
+.container {
+	max-width: 1296px;
+	width: 100%;
+	margin: 0 auto;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 120px;
+	padding-bottom: 80px;
+}
+
+h1 {
+	font-size: 84px;
+}
+
+h4 {
+	font-size: 36px;
+}

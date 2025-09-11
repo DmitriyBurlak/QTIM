@@ -1,0 +1,1 @@
+export { default as MainArticles } from './MainArticles.vue'

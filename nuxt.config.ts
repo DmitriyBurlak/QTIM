@@ -6,6 +6,11 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxt/eslint'
   ],
+	runtimeConfig: {
+		public: {
+			baseURL: 'https://6082e3545dbd2c001757abf5.mockapi.io/qtim-test-work',
+		},
+	},
 
   css: ['~/assets/css/main.css'],
 
