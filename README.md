@@ -5,3 +5,11 @@
 Пример по настройке api из документации [mockapi.io](https://github.com/mockapi-io/docs/wiki/Custom-responses)
 
 Всего записей - 85, Установил это количество как дефолтное значение (total: 85)
+
+
+## Запуск проекта
+
+```bash
+npm install
+npm run dev
+```
